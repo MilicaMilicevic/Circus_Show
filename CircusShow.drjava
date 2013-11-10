@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/server/Circus.java" package="src.server" timestamp="31-Oct-2013 12:53:57">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/properties/Graham.java" package="src.client.properties" timestamp="12-Oct-2013 13:32:22">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/properties/Carnivore.java" package="src.client.properties" timestamp="12-Oct-2013 13:33:05">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/food/Name.java" package="src.client.food" timestamp="21-Oct-2013 15:33:41">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/food/Type.java" package="src.client.food" timestamp="21-Oct-2013 16:21:18">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/Client.java" package="src.client" timestamp="31-Oct-2013 12:42:41">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/properties/Singable.java" package="src.client.properties" timestamp="31-Oct-2013 12:45:03">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/animal/Elephant.java" package="src.client.animal" timestamp="31-Oct-2013 12:45:03">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/food/Food.java" package="src.client.food" timestamp="31-Oct-2013 12:45:03">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/animal/Fox.java" package="src.client.animal" timestamp="31-Oct-2013 12:46:06">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/animal/Rabbit.java" package="src.client.animal" timestamp="31-Oct-2013 12:46:06">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/animal/Wolf.java" package="src.client.animal" timestamp="31-Oct-2013 12:46:06">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/client/animal/Animal.java" package="src.client.animal" timestamp="31-Oct-2013 12:49:17">
+        <select from="1974" to="1974"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
